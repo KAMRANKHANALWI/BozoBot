@@ -18,8 +18,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+https://github.com/KAMRANKHANALWI/BozoBot.git
+cd backend
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
