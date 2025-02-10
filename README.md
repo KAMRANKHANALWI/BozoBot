@@ -7,14 +7,29 @@
 ## 📌 Overview
 This project is a fully functional chatbot web application where users can engage in AI-powered conversations. The **React frontend** provides a sleek chat interface, while the **FastAPI backend** handles API requests, manages chat sessions, and interacts with the LLM for generating responses.
 
-### 🎯 **Key Features**
-✅ **LLM-Powered Chat** – AI-driven conversations using Groq's Llama 3.3-70B Versatile model.
-✅ **FastAPI Backend** – High-performance, lightweight API backend.
-✅ **React Frontend** – Modern, interactive chat interface.
-✅ **Session Management** – Tracks conversation history across sessions.
-✅ **CORS Enabled** – Allows smooth frontend-backend communication.
-✅ **API Documentation** – Auto-generated Swagger & Redoc UI.
-✅ **Scalable Deployment** – Supports Docker, cloud hosting.
+### 🎯 **Key Features**  
+
+✅ **LLM-Powered Chat**  
+AI-driven conversations using Groq's Llama 3.3-70B Versatile model.  
+
+✅ **FastAPI Backend**  
+High-performance, lightweight API backend.  
+
+✅ **React Frontend**  
+Modern, interactive chat interface.  
+
+✅ **Session Management**  
+Tracks conversation history across sessions.  
+
+✅ **CORS Enabled**  
+Allows smooth frontend-backend communication.  
+
+✅ **API Documentation**  
+Auto-generated Swagger & Redoc UI.  
+
+✅ **Scalable Deployment**  
+Supports Docker, cloud hosting.  
+
 
 ---
 
@@ -23,7 +38,6 @@ This project is a fully functional chatbot web application where users can engag
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/KAMRANKHANALWI/BozoBot.git
-cd your-project
 ```
 
 ### 2️⃣ Backend Setup (FastAPI)
