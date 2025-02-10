@@ -20,8 +20,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-frontend-repository.git
-cd your-frontend-repository
+git clone https://github.com/KAMRANKHANALWI/BozoBot.git
+cd frontend
 ```
 
 ### 2️⃣ Install Dependencies
